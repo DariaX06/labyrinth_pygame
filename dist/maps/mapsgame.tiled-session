@@ -1,0 +1,107 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map4.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "C:/Users/khamu/Downloads/free_volcano_tileset/images/map1.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 99.16666666666664,
+                "y": 132.33333333333334
+            }
+        },
+        "C:/Users/khamu/Downloads/free_volcano_tileset/images/tilemap.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/khamu/Downloads/free_volcano_tileset/images/tilemap222.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map1.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 122,
+                "y": 119.83333333333334
+            }
+        },
+        "map1.tmx#tilemap": {
+            "scaleInDock": 1
+        },
+        "map2.tmx": {
+            "scale": 1.7891666666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240.6148113646949,
+                "y": 240.33535165346998
+            }
+        },
+        "map3.tmx": {
+            "scale": 1.7891666666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240.6148113646949,
+                "y": 240.33535165346998
+            }
+        },
+        "map4.tmx": {
+            "scale": 1.7891666666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240.6148113646949,
+                "y": 235.3050768514206
+            }
+        },
+        "tilemap.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "tilemap1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilemap111.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/khamu/PycharmProjects/pythonProject5/maps",
+    "map.height": 15,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 15,
+    "openFiles": [
+        "tilemap.tsx",
+        "map2.tmx",
+        "tilemap111.tsx",
+        "map3.tmx",
+        "map4.tmx"
+    ],
+    "project": "mapsgame.tiled-project",
+    "recentFiles": [
+        "tilemap.tsx",
+        "map2.tmx",
+        "tilemap111.tsx",
+        "map3.tmx",
+        "map4.tmx",
+        "map1.tmx",
+        "C:/Users/khamu/Downloads/free_volcano_tileset/images/tilemap222.tsx",
+        "C:/Users/khamu/Downloads/free_volcano_tileset/images/map1.tmx",
+        "tilemap1.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 24,
+        "width": 24
+    }
+}
